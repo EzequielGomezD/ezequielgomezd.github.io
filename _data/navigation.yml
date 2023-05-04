@@ -1,7 +1,7 @@
 # Aquí se configuran las opciones del menú superior.
 main:
   - title: "Máquinas"
-    url: /ceti/
+    url: /maquinas/
     description: "Apuntes de CETI"
   - title: "Categorías"
     url: /categories/
