@@ -1,4 +1,4 @@
-# rafaeldelrio.github.io
+# ezequielgomezd.github.io
 
 En este repositorio se almacenarán apuntes para grado medio, superior y cursos de especialización de informática (FP informática)
 
